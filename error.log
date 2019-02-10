@@ -374,4 +374,4 @@ Version: '5.7.25-0ubuntu0.18.10.2'  socket: '/var/run/mysqld/mysqld.sock'  port:
 2019-01-30T21:27:04.006867Z 2 [Warning] IP address '10.130.123.41' could not be resolved: Name or service not known
 2019-01-30T21:33:54.002161Z 11 [Warning] Hostname 'static.vnpt.vn' does not resolve to '14.169.224.241'.
 2019-01-30T21:33:54.002204Z 11 [Note] Hostname 'static.vnpt.vn' has the following IP addresses:
-2019-01-30T21:33:54.002208Z 11 [Note]  - 203.162.0.78
+2019-01-30T21:33:54.002208Z 11 [Note]  - 203.162.0.79
